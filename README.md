@@ -54,6 +54,6 @@ npm start
 Testing
 Js-helper-method uses the {test_framework} test framework. Run the test suite with:
 
-Using npm: npm i js-helper-metho
+Using npm: npm i js-helper-method
 
 npm test
