@@ -1,0 +1,12 @@
+{
+  "name": "js-helper-method",
+  "version": "1.2.0",
+  "description": "usefull js helper method",
+  "license": "MIT",
+  "author": "harbans",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
